@@ -1,2 +1,3 @@
-# gestion_cadeaux
-Application JEE réalisée avec les EJB3 permettant la gestion d'un bon de cadeaux.
+# Gestion des bons de Cadeau
+
+Application JEE réalisée avec les EJB3 permettant la gestion des bon de cadeaux.
